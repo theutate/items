@@ -1,2 +1,4 @@
 Groceries list:
 
+-bread
+-bananas
